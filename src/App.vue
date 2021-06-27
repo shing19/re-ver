@@ -19,4 +19,16 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+@font-face {
+  font-family: "Stanley";
+  src: url("assets/fonts/Stanley.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("assets/fonts/OpenSans-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 </style>

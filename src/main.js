@@ -6,8 +6,10 @@ import router from './router'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import 'jquery'
+import VueScrollLock from 'vue-scroll-lock'
 
 Vue.use(ElementUI)
+Vue.use(VueScrollLock)
 
 Vue.config.productionTip = false
 
