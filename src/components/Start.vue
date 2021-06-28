@@ -4,6 +4,7 @@
     <div class="text">Scroll you way up</div>
     <div class="sub-title">Welcome to the past</div>
     <div class="text" id="intro">Here is where your journey begins,<br>you’re now in the depts of your concoiusness and will be guided<br>through a journey throught time to climb back to the present and<br>then get a glimpse of the future.<br>Scroll up to move forward with your experience.</div>
+    <!-- <iframe src="/background.html" frameborder="0" style="width: 100vw height: 100vh" scrolling="auto"></iframe> -->
   </div>
 </template>
 
