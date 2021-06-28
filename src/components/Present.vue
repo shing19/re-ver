@@ -9,8 +9,7 @@
             <el-input
               type="textarea"
               :rows="2"
-              placeholder="请输入内容"
-              v-model="textarea">
+              placeholder="请输入内容">
             </el-input>
             <el-button class="button">Submit</el-button>
           </el-col>
